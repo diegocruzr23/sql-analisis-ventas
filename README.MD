@@ -4,7 +4,7 @@ Proyecto personal de práctica en SQL orientado al análisis de ventas
 y generación de reportes básicos usados en entornos empresariales.
 
 ## Motor
-- SQL Server / MySQL
+-  MySQL
 
 ## Tablas
 - clientes(id, nombre)
